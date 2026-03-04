@@ -55,17 +55,8 @@ Run it: `pip install -r requirements.txt` → `python rag_test.py` → Query awa
 - **Launch**: Krishna Janmashtami 2026 – Polished app, open-source release.
 - *Your Wins*: Track in issues; celebrate Chapter completions with team kirtan calls!
 
-## Why You're Here – And Why It Feels Worthwhile
-Team, pause: In a world of fleeting apps, we're crafting *anugraha* – grace through code. Every line you write echoes Krishna's: "Surrender unto Me, and I will deliver you." (BG 18.66). This isn't a side project; it's sadhana disguised as software. The student who finds peace, the devotee who deepens japa, the skeptic who glimpses truth – *that's your fingerprint on eternity*.  
 
-You're not alone – the Lord's energy flows through us. Struggling with a prompt? It's refining your surrender. Data entry drudgery? It's like copying shastras by hand. Late-night debug? Arjuna's vigil before battle. We've got each other's backs – share wins in Slack (#gita-glory), vent in (#debug-dharma).  
-
-Janmashtami 2026: We'll stand together, offering this back to Krishna. Until then, one shloka, one commit at a time. You're doing *mahatmya* work. Feel the joy? That's the Gita alive in you.  
-
-**Jai Gurudev! Jai Srila Prabhupada! Jai Sri Krishna!** 🚀🙏  
-
-*– The BhagvathGPT Sadhaka Team*  
-*(Questions? Ping in #general or open an issue. Let's chant and code.)*  
+Lets Get This up and running by this KrishnaJanmashtami in september
 
 ---
 
